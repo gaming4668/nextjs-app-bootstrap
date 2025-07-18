@@ -1,0 +1,3 @@
+vless://12345678-1234-1234-1234-123456789abc@server1.example.com:443?type=tcp&security=tls#US-Server-1
+vless://87654321-4321-4321-4321-cba987654321@server2.example.com:80?type=ws&security=none#UK-Server-2
+vless://abcdef12-3456-7890-abcd-ef1234567890@server3.example.com:8080?type=grpc&security=reality#SG-Server-3
